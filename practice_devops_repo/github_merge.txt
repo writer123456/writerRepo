@@ -1,3 +1,0 @@
-this is modified first line
-this is modified second line
-this is modified third line
